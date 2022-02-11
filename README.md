@@ -51,4 +51,4 @@ def max_marks(list1):
 ![output](./img/max_marks2.jpg) 
 
 ## Result:
-Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
+Thus the program to find the maximum of given numbers from the list is written and verified using python programming .
